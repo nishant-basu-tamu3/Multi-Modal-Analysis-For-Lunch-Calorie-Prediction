@@ -77,6 +77,3 @@ The model achieves competitive performance in calorie prediction using Root Mean
 ## License
 
 This project is available under standard open-source licensing terms.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/32292687/f12223bb-b63b-4f7e-86ee-9970249c767e/Multi-Modal-Analysis-For-Lunch-Calorie-Prediction.ipynb
